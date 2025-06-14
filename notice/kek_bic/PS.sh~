@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+ps aux | grep "NKFADC500_daq"
+ps aux | grep "BIC_DAQ_daq"
+ps aux | grep "APIX_DAQ_daq"
+ps aux | grep "JBNU_DAQ_daq"

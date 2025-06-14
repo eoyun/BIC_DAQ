@@ -1,0 +1,19 @@
+47
+1
+100
+2
+1000
+500
+0
+1
+
+------------------------------------------------------------------------------------
+
+1. High voltage, 0 ~ 60 V
+2. DAQ Multiplicity threshold, 1 ~ 32
+3. Discriminator threshold, 1 ~ 4095, can be set individually by channel
+4. Gate width, 1/2/4/8/16 us
+5. Input delay, 0 ~ 16,000 ns
+6. Peak sum width, 16 ~ 16,000 ns
+7. Zero suppression for waveform, 0 = not suppress, 1 = suppress
+8. ADC waveform prescale, 1 ~ 65535, 0 for disable waveform save

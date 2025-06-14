@@ -1,0 +1,22 @@
+1
+4095
+2
+1000
+500
+0
+1
+1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 
+
+------------------------------------------------------------------------------------
+
+1. DAQ Multiplicity threshold, 1 ~ 32
+2. Discriminator threshold, 1 ~ 4095, can be set individually by channel
+3. Gate width, 1/2/4/8/16 us
+4. Input delay, 0 ~ 16,000 ns
+5. Peak sum width, 16 ~ 16,000 ns
+6. Zero suppression for waveform, 0 = not suppress, 1 = suppress
+7. ADC waveform prescale, 1 ~ 65535, 0 for disable waveform save
+8 (and after). Discriminator enable (0 for disable, 1 for enable)

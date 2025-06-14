@@ -1,0 +1,33 @@
+Fri Mar 21 01:33:22 AM KST 2025
+
+Info: open_device: opening device Vendor ID = 0x547, Product ID = 0x1501, Serial ID = 0
+Info: open_device: super speed device opened (bus = 2, address = 2, serial id = 0).
+link status = 1 0
+DAQ[41] is found @33
+TCB coincidence width = 96 ns
+TCB multiplicity threshold = 1
+TCB pedestal trigger interval = 1000 ms
+TCB trigger enable = 2
+mid = 41 : Fail to align ADC!
+mid = 41 : DRAM is aligned.
+
+BIC_DAQ: MID41
+DAQ[41] coincidence width = 96 ns
+DAQ[41] multiplicity threshold = 1
+DAQ[41] discriminator threshold = 4095
+DAQ[41] gate width = 2 us
+DAQ[41] input delay = 992 ns
+DAQ[41] peak sum width = 496 ns
+DAQ[41] zero suppression = 0
+DAQ[41] waveform prescale = 1
+DAQ[41] disc enable 
+DAQ[41] discriminator enabled status:
+1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 
+DAQ[41] pedestal:
+1696 1770 1752 1830 1696 1770 1752 1830 
+1786 1740 1801 1687 1833 1779 1819 1823 
+5460 0 0 0 1808 1820 1625 1628 
+1691 1782 1681 1662 1755 1852 1815 1779 

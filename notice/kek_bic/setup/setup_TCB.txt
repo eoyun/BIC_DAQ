@@ -1,0 +1,12 @@
+100
+1
+0
+8
+
+------------------------------------------------------------------------------------
+
+ 1. Coincidence width, 16 ~ 16,000 ns
+ 2. TCB Multiplicity threshold, 1 ~ 1,280
+ 3. Pedestal trigger interval in ms, 0 ~ 65535 ms, 0 for disable pedestal trigger
+ 4. Trigger enable, 1 = self, 2 = pedestal, 4 = software, 8 = external (ex, 15 for all enabled)
+

@@ -1,0 +1,28 @@
+47
+100
+1
+1
+1000
+100
+2
+8
+1000
+500
+0
+1
+
+------------------------------------------------------------------------------------
+
+ 1. High voltage, 0 ~ 60 V
+ 2. Coincidence width, 16 ~ 16,000 ns
+ 3. TCB Multiplicity threshold, 1 ~ 1,280
+ 4. DAQ Multiplicity threshold, 1 ~ 32
+ 5. Pedestal trigger interval in ms, 0 ~ 65535 ms, 0 for disable pedestal trigger
+ 6. Discriminator threshold, 1 ~ 4095, can be set individually by channel
+ 7. Gate width, 1/2/4/8/16 us
+ 8. Trigger enable, 1 = self, 2 = pedestal, 4 = software, 8 = external (ex, 15 for all enabled)
+ 9. Input delay, 0 ~ 16,000 ns
+10. Peak sum width, 16 ~ 16,000 ns
+11. Zero suppression for waveform, 0 = not suppress, 1 = suppress
+12. ADC waveform prescale, 1 ~ 65535, 0 for disable waveform save
+

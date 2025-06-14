@@ -1,0 +1,57 @@
+Fri Mar 21 02:45:47 PM KST 2025
+
+Info: open_device: opening device Vendor ID = 0x547, Product ID = 0x1501, Serial ID = 0
+Info: open_device: super speed device opened (bus = 2, address = 4, serial id = 0).
+link status = 1 400000
+DAQ[42] is found @23
+DAQ[41] is found @33
+TCB coincidence width = 96 ns
+TCB multiplicity threshold = 1
+TCB pedestal trigger interval = 1000 ms
+TCB trigger enable = 2
+mid = 42 : ADC is aligned.
+mid = 42 : DRAM is aligned.
+
+BIC_DAQ: MID42
+DAQ[42] coincidence width = 96 ns
+DAQ[42] multiplicity threshold = 1
+DAQ[42] discriminator threshold = 4095
+DAQ[42] gate width = 2 us
+DAQ[42] input delay = 992 ns
+DAQ[42] peak sum width = 496 ns
+DAQ[42] zero suppression = 0
+DAQ[42] waveform prescale = 1
+DAQ[42] disc enable 
+DAQ[42] discriminator enabled status:
+1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 
+DAQ[42] pedestal:
+1764 1872 1853 1672 1659 1674 1742 1732 
+1729 1700 1672 1725 1778 1669 1811 1796 
+1818 1820 1697 1754 1858 1783 1734 1776 
+1674 1816 1724 1753 1791 1689 1774 1805 
+mid = 41 : Fail to align ADC!
+mid = 41 : DRAM is aligned.
+
+BIC_DAQ: MID41
+DAQ[41] coincidence width = 96 ns
+DAQ[41] multiplicity threshold = 1
+DAQ[41] discriminator threshold = 4095
+DAQ[41] gate width = 2 us
+DAQ[41] input delay = 992 ns
+DAQ[41] peak sum width = 496 ns
+DAQ[41] zero suppression = 0
+DAQ[41] waveform prescale = 1
+DAQ[41] disc enable 
+DAQ[41] discriminator enabled status:
+1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 
+DAQ[41] pedestal:
+1726 1797 1785 1854 1726 1797 1785 1854 
+1810 1771 1839 1721 1851 1800 1842 1848 
+5460 5460 0 0 1833 1844 1648 1658 
+1709 1800 1701 1687 1772 1873 1835 1796 

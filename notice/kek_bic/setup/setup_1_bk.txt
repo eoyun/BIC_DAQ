@@ -1,0 +1,17 @@
+16
+400
+4095
+1
+3000
+0
+
+------------------------------------------------
+
+1. RL (recoding length)
+	1 (= 2^0, 128 ns), 2 (256 ns), 4 (512 ns),
+	8 (~1 us = 1024 ns), 16 = (~2 us), 32 (4 us), 64 (8 us), 128 = (16 us), 256 (32 us)
+2. DLY (delay), intrinsic +80 delay exists
+3. THR (threshold), 4095 corresponds 2V
+4. AMODE (ADC mode: 0 = raw, 1 = filtered)
+5. DACOFF (ADC offset value: 0 ~ 4095)
+6. POL (Input pulse polarity: 0 = negative, 1 = positive)

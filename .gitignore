@@ -1,0 +1,14 @@
+*.lut
+*.dat
+*.log
+*.root
+*.o
+*.exe
+notice/kek_bic/data/bic_daq_41_1635.dat
+notice/kek_bic/data/bic_daq_42_1628.dat
+notice/kek_bic/data/bic_daq_42_1635.dat
+notice/test/bic/bic_daq_42.dat
+notice/test/bic/bic_daq_41.dat
+notice/kek_bic/QA/KoBIC
+notice/test_bic/QA/KoBIC
+notice/kek_bic/log
